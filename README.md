@@ -5,7 +5,7 @@ An "improved" launcher for NeosVR
 
 *The Neos Logo is property of the Neos Brand*
 
-*Config icon made by [Freepik](https://www.freepik.com) from [flaticon](www.flaticon.com)*
+*Config icon made by [Freepik](https://www.freepik.com) from [flaticon](https://www.flaticon.com)*
 
 ## Setup
 
