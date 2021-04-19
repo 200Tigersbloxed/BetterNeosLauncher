@@ -3,6 +3,9 @@ An "improved" launcher for NeosVR
 
 ![bnlSS](https://user-images.githubusercontent.com/45884377/115166205-ecdb0700-a07f-11eb-92d0-8066e3927aba.png)
 
+*The Neos Logo is property of the Neos Brand*
+*Config icon made by [Freepik](https://www.freepik.com) from [flaticon](www.flaticon.com)*
+
 ## Setup
 
 1) Download [latest release](https://github.com/200Tigersbloxed/BetterNeosLauncher/releases/latest)
