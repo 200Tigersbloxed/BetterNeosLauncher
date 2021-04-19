@@ -13,6 +13,7 @@ An "improved" launcher for NeosVR
 2) Move .exe file to your Neos Directory
 
 Note: This is required for Neos Dependencies to load in properly.
+
 Optional: Create a shortcut and pin to task bar or add to Start Menu
 
 ## Develpers
