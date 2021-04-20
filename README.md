@@ -1,7 +1,7 @@
 # BetterNeosLauncher
 An "improved" launcher for NeosVR
 
-![bnlSS](https://user-images.githubusercontent.com/45884377/115166205-ecdb0700-a07f-11eb-92d0-8066e3927aba.png)
+![jdfkjdfgjk](https://user-images.githubusercontent.com/45884377/115326782-d99d6980-a15b-11eb-99fd-8aeb10e380ac.PNG)
 
 *The Neos Logo is property of the Neos Brand*
 
